@@ -10,3 +10,5 @@ try:
 
 except ValueError as e:
     print(f"xato: {e}")
+
+# kodni joylash muvaffaqiyatli tugadi
