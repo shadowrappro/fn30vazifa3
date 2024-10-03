@@ -9,4 +9,4 @@ try:
     print("Kiritilgan string to'g'ri: faqat harflardan iborat.")
 
 except ValueError as e:
-    print(f"xato: {e}")
+    
