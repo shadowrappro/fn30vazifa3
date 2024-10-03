@@ -12,3 +12,5 @@ except ValueError as e:
     print(f"xato: {e}")
 
 # kodni joylash muvaffaqiyatli tugadi
+
+# kodni git hubga yuborishni amalga oshiramiz
