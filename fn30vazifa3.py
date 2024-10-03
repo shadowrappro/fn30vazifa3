@@ -4,7 +4,7 @@ foydalanuvchi_string = input("Iltimos, biror matn kiriting: ")
 
 try:
     if not foydalanuvchi_string.isalpha():
-        raise ValueError("Kiritilgan stringda faqat harflar bo'lishi kerak.")
+        raise .
     
     print("Kiritilgan string to'g'ri: faqat harflardan iborat.")
 
